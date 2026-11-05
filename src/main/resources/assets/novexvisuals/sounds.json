@@ -1,0 +1,5 @@
+{
+  "open":   { "sounds": ["novexvisuals:open"] },
+  "toggle": { "sounds": ["novexvisuals:toggle"] },
+  "chime":  { "sounds": ["novexvisuals:chime"] }
+}

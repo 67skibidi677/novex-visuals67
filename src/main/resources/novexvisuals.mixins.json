@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "novexvisuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["SkyMixin", "ItemModelMixin", "FovMixin"],
+  "injectors": { "defaultRequire": 0 }
+}

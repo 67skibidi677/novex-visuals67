@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "novexvisuals",
+  "version": "${version}",
+  "name": "Novex Visuals",
+  "description": "Visual client: custom skies, knife skins, FOV and menu sounds.",
+  "environment": "client",
+  "entrypoints": { "client": ["novexvisuals.NovexVisuals"] },
+  "mixins": ["novexvisuals.mixins.json"],
+  "depends": { "fabricloader": ">=0.16.0", "minecraft": "1.21.11", "java": ">=21", "fabric-api": "*" }
+}
